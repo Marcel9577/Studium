@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=neuerWert
+comment0.target=void\ setMax(java.lang.Object)
+comment1.params=neuerWert
+comment1.target=void\ setMin(java.lang.Object)
+comment2.params=
+comment2.target=java.lang.Object\ getMax()
+comment3.params=
+comment3.target=java.lang.Object\ getMin()
+numComments=4

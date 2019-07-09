@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.8.0-ea" class="java.beans.XMLDecoder">
+ <object class="java.util.ArrayList">
+  <void method="add">
+   <object class="Kunde">
+    <void property="blz">
+     <int>50040010</int>
+    </void>
+    <void property="kontonr">
+     <int>9876</int>
+    </void>
+    <void property="kundennr">
+     <int>1</int>
+    </void>
+    <void property="name">
+     <string>Musterfrau</string>
+    </void>
+    <void property="telefon">
+     <string>0231/12345</string>
+    </void>
+   </object>
+  </void>
+ </object>
+</java>

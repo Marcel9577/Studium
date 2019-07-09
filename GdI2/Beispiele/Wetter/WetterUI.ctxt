@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=args
+comment0.target=void\ main([Ljava.lang.String;)
+comment0.text=\ \r\n\ Startmethode\ f\u00FCr\ die\ Ausf\u00FChrung\ dieses\ Programms\r\n\r\n\ @param\ args\ Argumente\ f\u00FCr\ das\ Programm\r\n
+comment1.params=station1\ station2
+comment1.target=void\ vergleicheTemp(Wetter,\ Wetter)
+comment1.text=\ \r\n\ Vergleicht\ Temperaturen\ von\ zwei\ Wetterstationen\r\n\ auf\ Gleichheit\ und\ gibt\ das\ Ergebnis\ auf\ Konsole\ aus.\r\n\r\n\ @param\ station1\ erste\ zu\ vergleichende\ Station\r\n\ @param\ station1\ zweite\ zu\ vergleichende\ Station\r\n
+numComments=2

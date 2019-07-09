@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Kunde()
+comment1.params=
+comment1.target=java.lang.String\ getName()
+comment2.params=
+comment2.target=Anzeige\ getLinkAnzeige()
+comment2.text=Referenz\ auf\ Anzeige\ lesen
+comment3.params=kundenname
+comment3.target=void\ setName(java.lang.String)
+comment4.params=titel\ preis
+comment4.target=Anzeige\ erzeugeAnzeige(java.lang.String,\ int)
+comment5.params=eineAnzeige
+comment5.target=void\ setLinkAnzeige(Anzeige)
+comment5.text=Verbindung\ zu\ Anzeige\ herstellen
+comment6.params=
+comment6.target=void\ removeLinkAnzeige()
+comment6.text=Referenz\ zu\ Anzeige\ l\u00F6schen
+numComments=7

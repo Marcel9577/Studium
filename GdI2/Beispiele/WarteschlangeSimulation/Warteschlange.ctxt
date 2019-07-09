@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=boolean\ bedienen()
+comment1.params=einePerson
+comment1.target=void\ anstellen(Person)
+comment2.target=int\ getAnzahlElemente()
+comment3.params=index
+comment3.target=Person\ getPerson(int)
+numComments=4

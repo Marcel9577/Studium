@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.params=besitzer\ verkaufspreis\ haustyp
+comment0.target=Einfamilienhaus(String,int,String)
+comment1.target=String\ getHaustyp()
+numComments=2

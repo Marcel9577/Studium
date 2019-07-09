@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=nachname\ vorname
+comment0.target=Freund(java.lang.String,\ java.lang.String)
+comment1.params=
+comment1.target=java.lang.String\ getNachname()
+comment2.params=
+comment2.target=java.lang.String\ getVorname()
+comment3.params=einFreund
+comment3.target=int\ compareTo(Freund)
+numComments=4

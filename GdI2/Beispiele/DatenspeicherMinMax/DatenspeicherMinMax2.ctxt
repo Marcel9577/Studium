@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=neuerWert
+comment0.target=void\ pruefeMax(java.lang.Comparable)
+comment1.params=neuerWert
+comment1.target=void\ pruefeMin(java.lang.Comparable)
+comment2.params=neuerWert
+comment2.target=void\ setMax(java.lang.Comparable)
+comment3.params=neuerWert
+comment3.target=void\ setMin(java.lang.Comparable)
+comment4.params=
+comment4.target=java.lang.Comparable\ getMax()
+comment5.params=
+comment5.target=java.lang.Comparable\ getMin()
+numComments=6

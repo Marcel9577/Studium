@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Mitarbeiter()
+comment1.params=spitzname\ nachname\ vorname\ telefon\ email\ abteilung
+comment1.target=Mitarbeiter(java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String)
+comment2.params=
+comment2.target=java.lang.String\ getAbteilung()
+comment3.params=abteilung
+comment3.target=void\ setAbteilung(java.lang.String)
+comment4.params=
+comment4.target=java.lang.String\ toString()
+numComments=5

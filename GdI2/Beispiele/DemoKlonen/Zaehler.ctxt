@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=zaehlerart\ meinVerbraucher\ zaehlerstand
+comment0.target=Zaehler(String,Verbraucher,int)
+comment1.params=einZaehler
+comment1.target=Zaehler(Zaehler)
+comment2.target=int\ getZaehlerstand()
+comment3.target=String\ getZaehlerart()
+comment4.target=Verbraucher\ getMeinVerbraucher()
+comment5.target=Zaehler\ clone()
+numComments=6

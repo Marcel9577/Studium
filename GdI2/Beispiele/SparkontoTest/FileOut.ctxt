@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=outfilename
+comment0.target=void\ oeffneAusgabedatei(java.lang.String)
+comment1.params=zeile
+comment1.target=void\ schreibeNaechsteZeile(java.lang.String)
+comment2.params=
+comment2.target=void\ schliesseAusgabedatei()
+numComments=3

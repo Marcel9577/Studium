@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=kontonr\ ersteZahlung
+comment0.target=Konto(int,\ int)
+comment1.params=betrag
+comment1.target=void\ buchen(int)
+comment2.params=
+comment2.target=int\ getKontostand()
+comment3.params=
+comment3.target=int[]\ getDurchlauf()
+numComments=4

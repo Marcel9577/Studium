@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.params=besitzer\ verkaufspreis\ anzahlBueroraeume
+comment0.target=Geschaeftshaus(String,int,int)
+comment1.target=int\ getAnzahlBueroraeume()
+numComments=2

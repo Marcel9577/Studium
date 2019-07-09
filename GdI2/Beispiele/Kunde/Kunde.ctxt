@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=class\ Kunde
+comment1.params=kontonummer
+comment1.target=void\ setKontonr(int)
+comment10.params=nummer
+comment10.target=void\ setTelefon(String)
+comment11.params=
+comment11.target=Kunde()
+comment12.params=
+comment12.target=String\ getTelefon()
+comment13.target=telefon
+comment2.params=
+comment2.target=int\ getKontonr()
+comment3.params=
+comment3.target=String\ getName()
+comment4.target=name
+comment5.target=kontonr
+comment6.params=bankleitzahl
+comment6.target=void\ setBLZ(int)
+comment7.target=blz
+comment8.params=
+comment8.target=int\ getBLZ()
+comment9.params=kundenname
+comment9.target=void\ setName(String)
+numComments=14

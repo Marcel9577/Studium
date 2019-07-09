@@ -1,0 +1,1 @@
+java -classpath .;%JUNIT_HOME%\junit-4.1.jar junit.textui.TestRunner %1%

@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=
+comment0.target=java.lang.String\ getNeuenNamen()
+comment1.params=eineWarteschlange
+comment1.target=void\ ausgebenWarteschlange(Warteschlange)
+comment2.params=args
+comment2.target=void\ main([Ljava.lang.String;)
+numComments=3

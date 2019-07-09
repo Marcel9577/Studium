@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=artikelnr
+comment0.target=Artikel(int)
+comment1.target=int\ getArtikelnr()
+comment2.params=einAnbieter
+comment2.target=void\ setLinkAnbieter(Lieferant)
+comment3.params=einAnbieter
+comment3.target=void\ removeLinkAnbieter(Lieferant)
+comment4.target=ArrayList\ gibAlleAnbieter()
+numComments=5

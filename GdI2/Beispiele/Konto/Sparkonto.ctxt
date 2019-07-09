@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.params=meinKunde
+comment0.target=Sparkonto(Kunde)
+comment1.params=betrag
+comment1.target=void\ buchen(int)
+numComments=2

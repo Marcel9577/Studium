@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=infilename
+comment0.target=void\ oeffneEingabedatei(java.lang.String)
+comment1.params=
+comment1.target=java.lang.String\ gibNaechsteZeile()
+comment2.params=
+comment2.target=void\ schliesseEingabedatei()
+numComments=3

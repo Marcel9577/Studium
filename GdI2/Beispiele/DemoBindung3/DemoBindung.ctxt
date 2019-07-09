@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=einElement\ elementbez
+comment0.target=void\ druckeEinElement(String,String)
+comment1.params=eineListe
+comment1.target=void\ druckeAlleNamen(ArrayList)
+comment2.params=arg
+comment2.target=void\ main([)
+numComments=3

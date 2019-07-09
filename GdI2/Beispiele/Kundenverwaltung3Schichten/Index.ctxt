@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Index()
+comment1.params=schluessel\ index
+comment1.target=void\ erzeugeEintrag(int,\ int)
+comment2.params=schluessel
+comment2.target=int\ gibIndexZuSchluessel(int)
+comment3.params=
+comment3.target=void\ ladeIndexDatei()
+comment4.params=
+comment4.target=void\ speichereIndexDatei()
+comment5.params=schluessel
+comment5.target=void\ aktualisiereIndexDatei(int)
+comment6.params=
+comment6.target=void\ gibIndextabelleAus()
+numComments=7

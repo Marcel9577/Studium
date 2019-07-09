@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.params=
+comment0.target=ObjektContainer()
+comment1.params=
+comment1.target=ObjektContainer\ getObjektreferenz()
+comment2.params=einKunde
+comment2.target=void\ einfuegeKunde(Kunde)
+comment3.params=kundennr
+comment3.target=Kunde\ gibKunde(int)
+comment4.params=
+comment4.target=java.util.Iterator\ iteratorKunden()
+comment5.params=eineAnzeige
+comment5.target=void\ einfuegeAnzeige(Anzeige)
+comment6.params=anzeigennr
+comment6.target=Anzeige\ gibAnzeige(int)
+comment7.params=
+comment7.target=java.util.Iterator\ iteratorAnzeigen()
+comment8.params=
+comment8.target=void\ endeAnwendung()
+numComments=9

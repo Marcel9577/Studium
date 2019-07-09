@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=nachname\ vorname
+comment0.target=Person(java.lang.String,\ java.lang.String)
+comment1.params=
+comment1.target=java.lang.String\ getFamilienname()
+comment2.params=
+comment2.target=java.lang.String\ getVorname()
+comment3.params=
+comment3.target=java.lang.String\ getHochzeitsdatum()
+comment4.params=
+comment4.target=Person\ getPartner()
+comment5.params=partner\ hochzeitsdatum
+comment5.target=void\ setPartner(Person,\ java.lang.String)
+numComments=6

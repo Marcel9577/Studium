@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=nummer\ auftragssumme
+comment0.target=Auftrag(int,int)
+comment1.target=int\ getNummer()
+comment2.target=int\ getAuftragssumme()
+comment3.params=einAuftrag
+comment3.target=boolean\ equals(Auftrag)
+numComments=4

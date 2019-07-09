@@ -1,0 +1,6 @@
+A1
+B10000
+CFehler
+DFehler
+EFehler
+FFehler

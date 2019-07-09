@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.params=minTemp\ maxTemp\ niederschlag\ luft\ wind
+comment0.target=Tagesvorhersage(int,\ int,\ int,\ int,\ int)
+comment1.params=
+comment1.target=int[]\ getWerte()
+numComments=2

@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=class\ DemoAttributzugriff
+comment1.params=args
+comment1.target=void\ main(String[])
+comment2.params=
+comment2.target=DemoAttributzugriff()
+comment3.target=einAttribut
+comment4.params=
+comment4.target=int\ getEinAttribut()
+numComments=5

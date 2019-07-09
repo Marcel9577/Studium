@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=void\ setUp()
+comment1.target=void\ kontoAnlegen()
+comment2.target=void\ testBuchen()
+comment3.target=void\ testBuchenFehler1()
+comment4.params=args
+comment4.target=void\ main([)
+numComments=5

@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=inFile\ outFile\ testfall
+comment0.target=void\ testreihe(FileIn,\ FileOut,\ java.lang.String)
+comment0.text=\r\n\ Durchf\u00FChrung\ einer\ Testreihe.\r\n\ @param\ inFile\r\n\ @param\ outFile\r\n\ @param\ testfall\ Welcher\ Testfall\ soll\ ausgef\u00FChrt\ werden.\r\n
+comment1.params=zeile\ outFile
+comment1.target=void\ testfallKonto(java.lang.String,\ FileOut)
+comment1.text=\r\n\ Durchf\u00FChrung\ eines\ Testfalls\ f\u00FCr\ den\ Konstruktor\ \r\n\ Konto().\r\n\ @param\ zeile\r\n\ @param\ outFile\r\n
+comment2.params=zeile\ outFile
+comment2.target=void\ testfallBuchen(java.lang.String,\ FileOut)
+comment3.params=args
+comment3.target=void\ main([Ljava.lang.String;)
+numComments=4

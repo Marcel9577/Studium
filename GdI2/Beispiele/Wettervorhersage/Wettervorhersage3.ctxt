@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=ort
+comment0.target=Wettervorhersage3(java.lang.String)
+comment1.params=
+comment1.target=void\ berechneDurchschnittswerte()
+comment2.params=minTemp\ maxTemp\ niederschlag\ luft\ wind
+comment2.target=void\ neueVorhersage(int,\ int,\ int,\ int,\ int)
+comment3.params=
+comment3.target=int[][]\ gibVorhersage()
+comment4.params=
+comment4.target=double[]\ gibDurchschnittswerte()
+comment5.params=min\ max
+comment5.target=int\ zufall(int,\ int)
+numComments=6

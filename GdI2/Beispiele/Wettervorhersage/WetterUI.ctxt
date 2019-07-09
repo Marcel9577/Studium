@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.params=args
+comment0.target=void\ main([Ljava.lang.String;)
+comment1.params=
+comment1.target=void\ ausfuehrenWettervorhersage1()
+comment2.params=
+comment2.target=void\ ausfuehrenWettervorhersage2()
+comment3.params=
+comment3.target=void\ ausfuehrenWettervorhersage3()
+comment4.params=
+comment4.target=void\ ausfuehrenWettervorhersage4()
+comment5.params=vorhersage
+comment5.target=void\ ausgebenVorhersage(int[][])
+comment6.params=werte
+comment6.target=void\ ausgebenDurchschnittswerte(double[])
+numComments=7

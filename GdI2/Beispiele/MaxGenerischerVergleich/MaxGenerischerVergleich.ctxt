@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.params=wert1\ wert2
+comment0.target=<T\ extends\ Comparable<T>>\ T\ gibMax(T,T)
+comment1.params=args
+comment1.target=void\ main([)
+numComments=2

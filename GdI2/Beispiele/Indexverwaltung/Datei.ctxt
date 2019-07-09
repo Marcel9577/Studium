@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Datei()
+comment1.params=satz\ index
+comment1.target=void\ speichereSatz(java.lang.String,\ int)
+comment2.params=index
+comment2.target=java.lang.String\ leseSatz(int)
+comment3.params=name
+comment3.target=void\ oeffneDatei(java.lang.String)
+comment4.params=
+comment4.target=void\ schliesseDatei()
+comment5.params=
+comment5.target=int\ gibAnzahlDatensaetze()
+comment6.params=index
+comment6.target=void\ positioniereAufSatz(int)
+comment7.params=Laenge
+comment7.target=java.lang.String\ readFixedString(int)
+comment8.params=einDatensatz\ Laenge
+comment8.target=void\ writeFixedString(java.lang.String,\ int)
+comment9.params=
+comment9.target=void\ gibDatensaetzeAus()
+numComments=10

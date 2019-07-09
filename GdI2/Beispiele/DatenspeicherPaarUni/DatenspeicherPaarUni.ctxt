@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.params=neuerWert1\ neuerWert2
+comment0.target=void\ setPaar(T,T)
+comment1.target=T\ getWert1()
+comment2.target=T\ getWert2()
+comment3.target=void\ vertausche()
+numComments=4

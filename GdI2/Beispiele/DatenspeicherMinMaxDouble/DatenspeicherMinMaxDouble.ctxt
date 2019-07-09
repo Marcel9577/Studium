@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=neueTemperatur
+comment0.target=void\ setMax(double)
+comment1.params=neueTemperatur
+comment1.target=void\ setMin(double)
+comment2.target=double\ getMax()
+comment3.target=double\ getMin()
+numComments=4

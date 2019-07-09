@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=station
+comment0.target=Wetter(java.lang.String)
+comment0.text=\ Der\ Konstruktoraufruf\ erfordert\ die\ Namensangabe\r\n\ der\ Station.\r\n
+comment1.params=temperatur
+comment1.target=void\ setTemperatur(int)
+comment1.text=\ Es\ wird\ die\ aktuelle\ Temperatur\ gespeichert.\r\n\ @param\ temperatur\ als\ ganzzahliger\ Wert.\r\n
+comment2.params=
+comment2.target=int\ getTemperatur()
+comment2.text=\ Es\ wird\ die\ aktuelle\ Temperatur\ zur\u00FCckgegeben.\r\n\ @return\ temperatur\ als\ ganzzahliger\ Wert.\r\n
+comment3.params=
+comment3.target=java.lang.String\ getStation()
+comment3.text=\ Es\ wird\ der\ Name\ der\ Wetterstation\ zur\u00FCckgegeben.\r\n\ @return\ Stationsname\ als\ String\r\n
+numComments=4
